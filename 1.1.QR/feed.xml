@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:42FE6562-1D53-49BC-9E33-3E5771508741</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-02-24T01:05:17+00:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:B983354C-0954-4906-93CD-1F4B519E62DB</id>
+  <title>QRlink</title>
+  <title xmlns="urn:iweb:">QRlink</title>
+  <in-navbar xmlns="urn:iweb:">B983354C-0954-4906-93CD-1F4B519E62DB</in-navbar>
+  <link rel="alternate" href="QRlink.html"/>
+  <updated>2022-02-24T01:05:17.001+00:00</updated>
+  <content>QRlink</content>
+ </entry>
+</feed>
